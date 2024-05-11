@@ -6,7 +6,6 @@ Calcux Calculator is a simple and user-friendly calculator application built wit
 
 - Perform basic arithmetic operations (+, -, *, /)
 - Clear the current calculation
-- Display the calculation history
 - Responsive design for various screen sizes
 
 ## Installation
